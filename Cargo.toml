@@ -1,0 +1,3 @@
+[workspace]
+members = ["seaorm", "seaquery", "seagraphy", "seastreamer"]
+resolver = "2"

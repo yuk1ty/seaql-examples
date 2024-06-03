@@ -1,0 +1,7 @@
+[package]
+name = "seaorm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sea-orm = "0.12.15"
