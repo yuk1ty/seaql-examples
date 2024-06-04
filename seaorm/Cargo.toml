@@ -4,4 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-sea-orm = "0.12.15"
+sea-orm = { version = "0.12.15", features = ["mock"] }
+tokio = { version = "1.38.0", features = ["full"] }
